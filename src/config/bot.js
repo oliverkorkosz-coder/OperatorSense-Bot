@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Streaming", // required by Discord API, not shown in the client
-        state: "OperatorSense Tik Tok",     // this is what people actually see
+        name: "Streaming Operator Sense", // required by Discord API, not shown in the client
+        state: "He might be live, who knows",     // this is what people actually see
         type: 1,               // Custom
       },
     ],
